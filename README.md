@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/CypherZox/ClistApp">
+  <a href="https://github.com/CypherZox/ethvoting_time">
     <img src="https://play-lh.googleusercontent.com/d91JkGzJWYNnyMBZlArlMHpba6KOUKdaR1bIksAHkm-U8eAVmM7asEoS891n1IZEXkUd=w480-h960-rw" alt="Logo" width="80" height="80">
   </a>
 
@@ -44,6 +44,7 @@
     <a href="https://github.com/CypherZox/ClistApp/issues">Report Bug</a>
     ·
     <a href="https://github.com/CypherZox/ClistApp/issues">Request Feature</a>
+
   </p>
 </div>
 
@@ -203,8 +204,7 @@ Project Link: [https://github.com/CypherZox/ClistApp](https://github.com/CypherZ
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/CypherZox/ClistApp.svg?style=for-the-badge
-[clist-link]: https://clist.by/
-[contributors-url]: https://github.com/CypherZox/ClistApp/graphs/contributors
+[contributors-url]: https://github.com/CypherZox/ethvoting_time/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/CypherZox/ClistApp.svg?style=for-the-badge
 [forks-url]: https://github.com/CypherZox/ClistApp/network/members
 [stars-shield]: https://img.shields.io/github/stars/CypherZox/ClistApp.svg?style=for-the-badge
