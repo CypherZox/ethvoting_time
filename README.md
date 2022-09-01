@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CypherZox/ethvoting_time">
-    <img src="https://play-lh.googleusercontent.com/d91JkGzJWYNnyMBZlArlMHpba6KOUKdaR1bIksAHkm-U8eAVmM7asEoS891n1IZEXkUd=w480-h960-rw" alt="Logo" width="80" height="80">
+    <img src="https://github.com/CypherZox/ethvoting_time/blob/master/appstore.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">ClistApp</h3>
@@ -78,19 +78,18 @@
 
 ## About The Project
 
-<img src="https://play-lh.googleusercontent.com/d91JkGzJWYNnyMBZlArlMHpba6KOUKdaR1bIksAHkm-U8eAVmM7asEoS891n1IZEXkUd=w480-h960-rw" width="150" class="center">
+<img src="https://github.com/CypherZox/ethvoting_time/blob/master/appstore.png" width="150" class="center">
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-There are many people interested in competitive programming and compete online on sites like: codechef.com, topcoder.com,...etc. To view the upcoming events a website called [clist.by][clist-link] this app uses the API from [clist.by][clist-link] to view all the upcoming events of competitive programming.
-The Clean Architecture(with the help of the BLoC package) was used to build the app.
+This is a dApp that makes you vote for your favourirte character fron the Adventure time, all you have to do is just fill your MetaMask wallet with some Eth(Rinkebey network) then vote and BOOM see who's winnig!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 <p><a href="https://flutter.dev/"> <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="50" ></a> Flutter</p>
-
+<p><a href="https://docs.soliditylang.org/en/v0.8.15/brand-guide.html"> <img src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg" width="50" ></a> Flutter</p>
 <!-- - [![Flutter][flutter-logo]][flutter-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -99,8 +98,7 @@ The Clean Architecture(with the help of the BLoC package) was used to build the 
 
 ## Getting Started
 
-The app is available for installation in Google Play Store. To run on iOS devices
-you can run the app with an iOS Simulator.
+The app is available for installation as an apk (Will publish on Play Store soon follow me on Twitter to get notified on that). To run on iOS devices you can run the app with an iOS Simulator.
 
 ### Prerequisites
 
@@ -124,9 +122,18 @@ To run the app:
   flutter run
 ```
 
-You can download the app on Google Play Store.
+You can download the app from this [link][apk-download-link].
+
+To pay for voting (you'll vote with Rinkeby Eth so you won't pay real money here):
+
+- Install the MetaMask app.
+- create account(or import your account if you already have an account).
+- switch to Rinkeby network.
+- You can get balance from [here][chainlink-faucet].
 
 ### Installation
+
+You can download the app from this [link][apk-download-link].
 
 You can download the Android version of the app from Google Play
 <br><a href="https://play.google.com/store/apps/details?id=com.hanafedeil.clist.by"> <img src="https://cdn.freebiesupply.com/logos/large/2x/google-play-badge-logo-png-transparent.png" width="180" ></a>
@@ -135,10 +142,9 @@ You can download the Android version of the app from Google Play
 
 ## Code Architecture
 
-- The app was coded following the clean architecture with the help of the flutter BLoC package.
-- Dependency injection was used in this project as well using [get_it][get-it-url] and [build runner][build_runner_url]
-- TDD unit tests were applied using [mockito](https://pub.dev/packages/mockito)
-  ps. I recommend using Mocktail instead because it's more suitable for the null-safety development environment .
+- Used [Stacked][stacked-flutter] (MVVM) to manage state in the flutter app.
+- Solidity to write the smart contract.
+- Infura to deploy the smart contract.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,6 +229,9 @@ Project Link: [https://github.com/CypherZox/ClistApp](https://github.com/CypherZ
 [flutter-for-mac]: https://docs.flutter.dev/get-started/install/macos
 [flutter-for-windows]: https://docs.flutter.dev/get-started/install/windows
 [flutter-for-linux]: https://docs.flutter.dev/get-started/install/linux
+[apk-download-link]: https://drive.google.com/file/d/1z1zFWw0M5kPoRcqfFOdF4vG5Q1HNEA5a/view?usp=sharing
+[chainlink-faucet]: https://faucets.chain.link/
+[stacked-flutter]: https://pub.dev/packages/stacked
 [get-it-url]: https://pub.dev/packages/get_it
 [build_runner_url]: https://pub.dev/packages/build_runner
 [scrnsht-1]: https://play-lh.googleusercontent.com/ntFr1_5VOsIZ4LP0jRLVpVIhaRgk2oPcSbv8fjTZ5sq8ttb0-3VATZxYl9KD230eWNA=w5120-h2880-rw
