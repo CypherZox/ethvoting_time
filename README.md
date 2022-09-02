@@ -33,7 +33,7 @@
     <img src="https://github.com/CypherZox/ethvoting_time/blob/master/appstore.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">ClistApp</h3>
+<h3 align="center">EthVoting Time</h3>
 
   <p align="center">
     project_description
@@ -43,9 +43,9 @@
     <br />
     <!-- <a href="https://github.com/CypherZox/ClistApp">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/CypherZox/ClistApp/issues">Report Bug</a>
+    <a href="https://github.com/CypherZox/ethvoting_time/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CypherZox/ClistApp/issues">Request Feature</a>
+    <a href="https://github.com/CypherZox/ethvoting_time/issues">Request Feature</a>
   </p>
 </div>
 
@@ -123,7 +123,7 @@ To run the app:
   flutter run
 ```
 
-You can download the app from this [link][apk-download-link].
+You can download the app (apk) from this [link][apk-download-link].
 
 To pay for voting (you'll vote with Rinkeby Eth so you won't pay real money here):
 
@@ -150,11 +150,9 @@ You can download the app (apk) from this [link][apk-download-link].
 
 ## Screenshots
 
-- <img src="https://play-lh.googleusercontent.com/ntFr1_5VOsIZ4LP0jRLVpVIhaRgk2oPcSbv8fjTZ5sq8ttb0-3VATZxYl9KD230eWNA=w5120-h2880-rw" width="200">
+- <img src="https://github.com/CypherZox/ethvoting_time/blob/master/Pink%20Minimalist%20iPhone%20Mockup%20for%20Instagram%20(1).gif" width="400">
 
-- <img src="https://play-lh.googleusercontent.com/dJ2hpjCzOBUVDrlY3744I4TCIMfRA3YU9QWW7iWp94zZd995L_j3ctEvKrT9FDfN9Ms=w5120-h2880-rw" width="200">
-
-See the [open issues](https://github.com/CypherZox/ClistApp/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/CypherZox/ethvoting_time/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,7 +189,7 @@ Your Name - [@CypherZox\_](https://twitter.com/CypherZox_) - hanafedeil@gmail.co
 
 LinkedIn - [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/CypherZox/ClistApp](https://github.com/CypherZox/ClistApp)
+Project Link: [https://github.com/CypherZox/ethvoting_time](https://github.com/CypherZox/ethvoting_time)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,14 +205,16 @@ Project Link: [https://github.com/CypherZox/ClistApp](https://github.com/CypherZ
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/CypherZox/ClistApp.svg?style=for-the-badge
+<!-- https://github.com/CypherZox/ethvoting_time -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/CypherZox/ethvoting_time.svg?style=for-the-badge
 [contributors-url]: https://github.com/CypherZox/ethvoting_time/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CypherZox/ClistApp.svg?style=for-the-badge
-[forks-url]: https://github.com/CypherZox/ClistApp/network/members
-[stars-shield]: https://img.shields.io/github/stars/CypherZox/ClistApp.svg?style=for-the-badge
-[stars-url]: https://github.com/CypherZox/ClistApp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CypherZox/ClistApp.svg?style=for-the-badge
-[issues-url]: https://github.com/CypherZox/ClistApp/issues
+[forks-shield]: https://img.shields.io/github/forks/CypherZox/ethvoting_time.svg?style=for-the-badge
+[forks-url]: https://github.com/CypherZox/ethvoting_time/network/members
+[stars-shield]: https://img.shields.io/github/stars/CypherZox/ethvoting_time.svg?style=for-the-badge
+[stars-url]: https://github.com/CypherZox/ethvoting_time/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CypherZox/ethvoting_time.svg?style=for-the-badge
+[issues-url]: https://github.com/CypherZox/ethvoting_time/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/CypherZox/flutter_image_editor/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
@@ -223,7 +223,6 @@ Project Link: [https://github.com/CypherZox/ClistApp](https://github.com/CypherZ
 [flutter-logo]: https://avatars.githubusercontent.com/u/14101776?s=200&v=4
 [flutter-url]: https://flutter.dev/
 [get-it-on-gp-image]: https://cdn.freebiesupply.com/logos/large/2x/google-play-badge-logo-png-transparent.png
-[get-it-on-gp-url]: https://play.google.com/store/apps/details?id=com.hanafedeil.clist.by
 [flutter-for-mac]: https://docs.flutter.dev/get-started/install/macos
 [flutter-for-windows]: https://docs.flutter.dev/get-started/install/windows
 [flutter-for-linux]: https://docs.flutter.dev/get-started/install/linux
