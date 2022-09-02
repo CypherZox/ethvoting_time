@@ -37,14 +37,15 @@
 
   <p align="center">
     project_description
-
     <br />
-    <a href="https://github.com/CypherZox/ClistApp">View Demo</a>
-    ·
+    <!-- <a href="https://github.com/CypherZox/ClistApp"><strong>Explore the docs »</strong></a> -->
+    <br />
+    <br />
+    <!-- <a href="https://github.com/CypherZox/ClistApp">View Demo</a> -->
+    <!-- · -->
     <a href="https://github.com/CypherZox/ClistApp/issues">Report Bug</a>
     ·
     <a href="https://github.com/CypherZox/ClistApp/issues">Request Feature</a>
-
   </p>
 </div>
 
@@ -89,7 +90,7 @@ This is a dApp that makes you vote for your favourirte character fron the Advent
 ### Built With
 
 <p><a href="https://flutter.dev/"> <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="50" ></a> Flutter</p>
-<p><a href="https://docs.soliditylang.org/en/v0.8.15/brand-guide.html"> <img src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg" width="50" ></a> Flutter</p>
+<p><a href="https://docs.soliditylang.org/en/v0.8.15/brand-guide.html"> <img src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg" width="50" ></a> Solidity</p>
 <!-- - [![Flutter][flutter-logo]][flutter-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,10 +134,7 @@ To pay for voting (you'll vote with Rinkeby Eth so you won't pay real money here
 
 ### Installation
 
-You can download the app from this [link][apk-download-link].
-
-You can download the Android version of the app from Google Play
-<br><a href="https://play.google.com/store/apps/details?id=com.hanafedeil.clist.by"> <img src="https://cdn.freebiesupply.com/logos/large/2x/google-play-badge-logo-png-transparent.png" width="180" ></a>
+You can download the app (apk) from this [link][apk-download-link].
 
 <!-- USAGE EXAMPLES -->
 
