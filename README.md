@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CypherZox/ethvoting_time">
-    <img src="hhttps://github.com/CypherZox/ethvoting_time/blob/main/appstore.png" alt="Logo" width="100" height="100">
+    <img src="https://github.com/CypherZox/ethvoting_time/blob/main/appstore.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">EthVoting Time</h3>
