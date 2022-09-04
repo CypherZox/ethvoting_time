@@ -151,12 +151,13 @@ You can download the app (apk) from this [link][apk-download-link].
 ## Features/What the app does and Screenshots
 
 - Connect with Metamask wallet (Shows results when wallet address has already been voted with before)
-- <img src="https://github.com/CypherZox/ethvoting_time/blob/master/wallet_connect_voted_before.gif" width="400">
+- <img src="https://github.com/CypherZox/ethvoting_time/blob/main/wallet_connect_voted_before.gif" width="400">
 
-- Vote for your chosen candidate. -<img src="https://github.com/CypherZox/ethvoting_time/blob/master/Pink%20Minimalist%20iPhone%20Mockup%20for%20Instagram%20(1).gif" width="400">
+- Vote for your chosen candidate. 
+- <img src="https://github.com/CypherZox/ethvoting_time/blob/main/Pink%20Minimalist%20iPhone%20Mockup%20for%20Instagram%20(1).gif" width="404">
 
 - Checks to see if the user(address) has voted before
-- <img src="https://github.com/CypherZox/ethvoting_time/blob/master/user_can't_vote_again.gif" width="400">
+- <img src="https://github.com/CypherZox/ethvoting_time/blob/main/user_can't_vote_again.gif" width="400">
 
 See the [open issues](https://github.com/CypherZox/ethvoting_time/issues) for a full list of proposed features (and known issues).
 
