@@ -79,7 +79,7 @@
 
 ## About The Project
 
-<img src="https://github.com/CypherZox/ethvoting_time/blob/master/appstore.png" width="150" class="center">
+<img src="https://github.com/CypherZox/ethvoting_time/blob/master/appstore.png" width="350" class="center">
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
