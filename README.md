@@ -67,7 +67,7 @@
       </ul>
     </li>
     <li><a href="#Code Architecture">Code Architecture</a></li>
-    <li><a href="#Screenshots and videos">Screenshots and videos</a></li>
+    <li><a href="#Features/What the app does and Screenshots">Features/What the app does and Screenshots</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -148,9 +148,15 @@ You can download the app (apk) from this [link][apk-download-link].
 
 <!-- ROADMAP -->
 
-## Screenshots
+## Features/What the app does and Screenshots
 
+- Connect with Metamask wallet (Shows results when wallet address has already been voted with before)
+
+- Vote for your chosen candidate.
 - <img src="https://github.com/CypherZox/ethvoting_time/blob/master/Pink%20Minimalist%20iPhone%20Mockup%20for%20Instagram%20(1).gif" width="400">
+
+- Checks to see if the user(address) has voted before
+-
 
 See the [open issues](https://github.com/CypherZox/ethvoting_time/issues) for a full list of proposed features (and known issues).
 
@@ -197,8 +203,10 @@ Project Link: [https://github.com/CypherZox/ethvoting_time](https://github.com/C
 
 ## Acknowledgments
 
-- [Clean Code Architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
-- [TDD for flutter (a little bit outdated)](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
+- [Build a voting app tutorial](https://www.youtube.com/watch?v=3681ZYbDSSk&t=4984s)
+- [Learn Solidity and web3 basics](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=24626s)
+- [Icons from Icons8.com](https://icons8.com/)
+- [Wallet animation and "waiting confirmation" andimation from: lottiefiles.com/](https://lottiefiles.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

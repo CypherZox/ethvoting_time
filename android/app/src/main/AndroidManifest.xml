@@ -2,9 +2,9 @@
     package="com.example.voting_app">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="voting_app"
+        android:label="Ethvoting Time"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
