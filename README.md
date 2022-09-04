@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CypherZox/ethvoting_time">
-    <img src="https://github.com/CypherZox/ethvoting_time/blob/master/appstore.png" alt="Logo" width="80" height="80">
+    <img src="hhttps://github.com/CypherZox/ethvoting_time/blob/main/appstore.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">EthVoting Time</h3>
@@ -79,7 +79,7 @@
 
 ## About The Project
 
-<img src="https://github.com/CypherZox/ethvoting_time/blob/master/appstore.png" width="250" class="center">
+<img src="https://github.com/CypherZox/ethvoting_time/blob/main/appstore.png" width="350" class="center">
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
